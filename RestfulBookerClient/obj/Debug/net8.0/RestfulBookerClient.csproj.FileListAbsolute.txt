@@ -1,0 +1,14 @@
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\bin\Debug\net8.0\RestfulBookerClient.exe
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\bin\Debug\net8.0\RestfulBookerClient.deps.json
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\bin\Debug\net8.0\RestfulBookerClient.runtimeconfig.json
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\bin\Debug\net8.0\RestfulBookerClient.dll
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\bin\Debug\net8.0\RestfulBookerClient.pdb
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\obj\Debug\net8.0\RestfulBookerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\obj\Debug\net8.0\RestfulBookerClient.AssemblyInfoInputs.cache
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\obj\Debug\net8.0\RestfulBookerClient.AssemblyInfo.cs
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\obj\Debug\net8.0\RestfulBookerClient.csproj.CoreCompileInputs.cache
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\obj\Debug\net8.0\RestfulBookerClient.dll
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\obj\Debug\net8.0\refint\RestfulBookerClient.dll
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\obj\Debug\net8.0\RestfulBookerClient.pdb
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\obj\Debug\net8.0\RestfulBookerClient.genruntimeconfig.cache
+C:\Users\nik.kostov\source\repos\RestfulBookerClient\RestfulBookerClient\obj\Debug\net8.0\ref\RestfulBookerClient.dll
