@@ -5,13 +5,13 @@ Bulgaria · [n.kostov66@gmail.com](mailto:n.kostov66@gmail.com) · +359 889 196 
 
 ---
 
-Started as a Mobile QA Engineer at Novanor. Moved to experian where started as Manual QA (UI, DB) grew to Automation QA (QFTest). Next step was DraftKings (BackEnd) where tested sportsfeeds, delivered automation (C# / .NET + Specflow / Gherkin + CI/CD ). In the past year created whole automated workflows via Claude and MCP's. 
+Started as a Mobile QA Engineer at Novanor. Moved to Experian where started as Manual QA (UI, DB) grew to Automation QA (QFTest). Next step was DraftKings (BackEnd) where tested sportsfeeds, delivered automation (C# / .NET + Specflow / Gherkin + CI/CD ). In the past year created full automated QA workflows via Claude and MCP's. 
 
 ---
 
 Manual Testing (UI, DB) 
 Mobile Testing
-Automation Testing in different projects
-AI Assisted work - Full QA solutions focused on removing daily repetitive work. 
+Automation Testing in different projects - (QFTest | Backend C#, .Net | Specflow / Gherkin | UI Playwright / Typescript | Cypress)
+AI Assisted work - Full QA solutions focused on removing daily repetitive work (Claude, Cursor and different MCP's). 
 
 ---
